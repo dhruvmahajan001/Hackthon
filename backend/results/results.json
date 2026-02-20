@@ -1,0 +1,17 @@
+{
+    "repo_path": "C:\\Dev\\Hackathon\\backend\\cloned_repos\\ci-demo",
+    "branch": "INNOVEX_DHRUV_AI_Fix",
+    "iterations": 0,
+    "max_retry": 5,
+    "initial_failure_count": 0,
+    "final_failure_count": 0,
+    "status": "PASSED",
+    "ci_status": "NOT_TRIGGERED",
+    "fixes_applied": [],
+    "total_time_seconds": 1.62,
+    "score": {
+        "final_score": 100,
+        "retry_penalty": 0,
+        "commit_penalty": 0
+    }
+}
